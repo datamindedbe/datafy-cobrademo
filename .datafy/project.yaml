@@ -1,0 +1,10 @@
+docker:
+  path: .
+id: fb919ba1-167d-4374-a02c-aa3bf689c9db
+name: cobrademo
+resources:
+  path: resources
+template: project/python
+version: "0.2"
+workflows:
+  path: dags
